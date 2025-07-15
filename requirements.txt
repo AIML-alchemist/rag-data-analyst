@@ -1,0 +1,28 @@
+# RAG-Powered Data Analysis Application Requirements
+# Core Dependencies for Streamlit Application
+
+# Web Framework
+streamlit>=1.28.0
+
+# Data Processing and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization Libraries
+plotly>=5.17.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning and AI
+scikit-learn>=1.3.0
+openai>=1.3.0
+
+# RAG and Vector Store Dependencies
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# Text Processing
+nltk>=3.8.0
+
+# Utility Libraries
+python-dotenv>=1.0.0
